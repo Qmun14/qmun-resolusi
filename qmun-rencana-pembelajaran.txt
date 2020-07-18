@@ -3,7 +3,7 @@ RENCANA PEMBELAJARAN QMUN
 - Kuasai Javascript Advanced
   * ES6
   * Framework Javascript
-    ^ Vue
+    ^ Angular
     ^ React
 - Kuasai Github & Git 
 - Pelajari dan Kuasai Reactjs

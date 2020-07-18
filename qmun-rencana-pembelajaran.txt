@@ -1,0 +1,6 @@
+RENCANA PEMBELAJARAN QMUN
+
+- Kuasai Javascript Advanced
+- Kuasai Github & Git 
+- Pelajari dan Kuasai Reactjs
+- Pelajari dan kuasai Node.js

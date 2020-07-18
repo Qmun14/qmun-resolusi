@@ -3,7 +3,10 @@ RENCANA PEMBELAJARAN QMUN
 - Kuasai Javascript Advanced
   * ES6
   * Framework Javascript
+    ^ Vue
 - Kuasai Github & Git 
 - Pelajari dan Kuasai Reactjs
+  ^ React Native
 - Pelajari dan kuasai Node.js
 - Pelajari Struktur Data Dasar
+- Pelajari adobe XD

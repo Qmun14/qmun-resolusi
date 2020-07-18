@@ -3,4 +3,4 @@ Qmun Resolusi :
 - Menguasai Javascript advanced sebelum akhir tahun
 - Menguasai Front-End Web Development sebelum Akhir Tahun 2020
 - Meguasai Git & Github sebelum Bulan Agustus 2020
-- Membuat Aplikasi untuk Teknisi Komputer diruangan diawal 2021
+- Kolaborasi dengan expert

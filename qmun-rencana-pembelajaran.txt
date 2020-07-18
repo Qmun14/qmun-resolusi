@@ -6,3 +6,4 @@ RENCANA PEMBELAJARAN QMUN
 - Kuasai Github & Git 
 - Pelajari dan Kuasai Reactjs
 - Pelajari dan kuasai Node.js
+- Pelajari Struktur Data Dasar

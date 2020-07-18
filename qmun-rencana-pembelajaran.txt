@@ -4,6 +4,7 @@ RENCANA PEMBELAJARAN QMUN
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Kuasai Github & Git 
 - Pelajari dan Kuasai Reactjs
   ^ React Native
